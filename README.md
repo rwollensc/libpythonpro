@@ -5,6 +5,10 @@ Nesse curso é ensinado como contribuir  com projetos de código aberto
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
+[![Updates](https://pyup.io/repos/github/rwollensc/libpythonpro/shield.svg)](https://pyup.io/repos/github/rwollensc/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/rwollensc/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/rwollensc/libpythonpro/)
+
+
 Suportada versao 3 de Python
 
 Para instalar
